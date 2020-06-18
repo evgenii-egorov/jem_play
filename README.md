@@ -1,5 +1,6 @@
 # jem_play
-toy_train: 2D examples on moons
-mist_train: example on mnist
+toy_train: 2D examples on moons 
+
+mnist_train: example on mnist
 
 
